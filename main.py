@@ -1,7 +1,7 @@
 import socket
 
 # Try this with example.com first, but try changing it to a different site after
-# you get it working on this site.
+# you get it working.
 hostname = "example.com"
 
 
@@ -33,7 +33,7 @@ def make_http_request(ip, port):
 # Firstly, find the function to return an ip address from whatever the hostname is
 # (This variable is defined at the top of this file if you want to play with it)
 #
-# Hint: This is meant for you to use Google to figure out,
+# Hint: This is meant for you to use Google to figure out.
 
 # Next, call make_http_request with the correct parameters and then print the response
 # This response should look a lot like the in-class example of "curl", and start with
